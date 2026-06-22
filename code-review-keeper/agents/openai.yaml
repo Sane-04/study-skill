@@ -1,0 +1,4 @@
+interface:
+  display_name: "必敲代码复习"
+  short_description: "归档必敲代码并按艾宾浩斯曲线安排复习考核"
+  default_prompt: "用 $code-review-keeper 看看今天该复习哪些必敲代码"
