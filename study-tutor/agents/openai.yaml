@@ -1,0 +1,4 @@
+interface:
+  display_name: "学习导师"
+  short_description: "结构化讲解、确认疑问、分节教学、代码分级的学习模式"
+  default_prompt: "用 $study-tutor 带我学习这个知识点"
